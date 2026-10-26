@@ -29,6 +29,7 @@
   <a href="#features">Features</a> ·
   <a href="#installation">Installation</a> ·
   <a href="#compatibility">Compatibility</a> ·
+  <a href="#license">License</a> ·
   <a href="#credits">Credits</a>
 </p>
 
@@ -93,6 +94,12 @@ Ten client locales: deDE, enUS, esES, frFR, itIT, koKR, ptBR, ruRU, zhCN, zhTW.
 - Notification output can use Blizzard floating combat text, MSBT, or Parrot2.
 - Other 3.3.5a servers are not tested.
 
+<a name="license"></a>
+### License
+
+KiwiFarm is distributed under the GNU General Public License v3.0, the same
+license as the original addon. See [LICENSE](LICENSE).
+
 <a name="credits"></a>
 ### Credits
 
@@ -109,6 +116,7 @@ Ten client locales: deDE, enUS, esES, frFR, itIT, koKR, ptBR, ruRU, zhCN, zhTW.
   <a href="#возможности">Возможности</a> ·
   <a href="#установка">Установка</a> ·
   <a href="#совместимость">Совместимость</a> ·
+  <a href="#лицензия">Лицензия</a> ·
   <a href="#благодарности">Благодарности</a>
 </p>
 
@@ -174,6 +182,12 @@ zhTW.
 - Необязательные зависимости: `LibSharedMedia-3.0` и `LibItemUpgradeInfo-1.0`.
 - Уведомления можно выводить через всплывающий текст Blizzard, MSBT или Parrot2.
 - Другие серверы 3.3.5a не тестировались.
+
+<a name="лицензия"></a>
+### Лицензия
+
+KiwiFarm распространяется по GNU General Public License v3.0 — той же
+лицензии, что и оригинальный аддон. Подробности — в [LICENSE](LICENSE).
 
 <a name="благодарности"></a>
 ### Благодарности
